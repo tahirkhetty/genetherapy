@@ -6,10 +6,6 @@ layout: post
 
 ![gene editing](https://www.stemgenomics.com/wp-content/uploads/2023/01/29132911743072_1.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit.
-
 
 ## Heading Two (h2)
 
@@ -23,10 +19,6 @@ Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, tur
 
 
 ## Blockquotes
-
-### Single line
-
-> My mom always said life was like a box of chocolates. You never know what you're gonna get.
 
 ### Multiline
 > A groundbreaking gene therapy has been hailed as a 'medical  magic wand' after the treatment transformed the lives of patients with a hereditary disorder that causes painful and potentially fatal swelling"
