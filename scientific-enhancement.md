@@ -15,6 +15,7 @@ Cellular mutation is when there is any abnormal change in the DNA sequence of a 
 
 Gene therapy helped to understand how genetic diseases can be inherited and how to fix it from the egg and sperm cell before it becomes an embryo. It also helped our understanding of stem cells and how they can be altered or injected into someone to fix the targeted problem.
 
+![enhancing](https://img.chemie.de/Portal/News/6576f56f211f6_QiR0Jsyba.png?tr=n-news_teaser)
 ### Environmental!? Can Gene Therapy Change the World!?
 
 - Gene therapy has no negative nor positive significant effect on the quality of an environment. Though, the potential for gene therapy is endless. As gene therapy is a currently developing treatment on humans, there isn’t much it can do for the environment... For now.
@@ -32,6 +33,12 @@ Gene therapy helped to understand how genetic diseases can be inherited and how 
 - Gene therapy has the potential to lessen the impact and maybe even start reducing the rate of climate change.
 
 - Though, in the future, we can expect great things from this technology. An example of this is through the idea of biotech trees where genetically engineered trees are entered and grown in forests. 
+
+![biotech trees](https://www.centerforfoodsafety.org/thumbs/1000x562/files/zc/tree_farm_2_000021241182medium_68587.jpg)
+
+### Overall Scientific Advancements in Gene Therapy
+
+{% include embed.html url="https://www.youtube.com/embed/GmDmWCmWYpw" %}
 
 ## MathJax
 
