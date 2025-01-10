@@ -21,17 +21,17 @@ Gene therapy helped to understand how genetic diseases can be inherited and how 
 
 - As the health/future of forests and their ecosystems are facing many threats, biotech trees could potentially be the cure to these issues.
 
-​- A report in 2012 by the US Forest Service declared that about 7% of US forests were in danger to lose at least one fourth of their tree vegetation by the next 15 years.
+- A report in 2012 by the US Forest Service declared that about 7% of US forests were in danger to lose at least one fourth of their tree vegetation by the next 15 years.
 
-​- Although this may seem like a small percentage, this may only be the start of a large decline in forest trees and its vegetation.
+- Although this may seem like a small percentage, this may only be the start of a large decline in forest trees and its vegetation.
 
 - This estimate was 40% higher than the previous estimate that was made 6 years before the 2012 report.
 
-​- Also, as climate change continues to increase worldwide, the application of gene therapy to not just trees, but also plants and other parts of the environment that need sustainable solutions.
+- Also, as climate change continues to increase worldwide, the application of gene therapy to not just trees, but also plants and other parts of the environment that need sustainable solutions.
 
-​- Gene therapy has the potential to lessen the impact and maybe even start reducing the rate of climate change.
+- Gene therapy has the potential to lessen the impact and maybe even start reducing the rate of climate change.
 
-​- Though, in the future, we can expect great things from this technology. An example of this is through the idea of biotech trees where genetically engineered trees are entered and grown in forests. 
+- Though, in the future, we can expect great things from this technology. An example of this is through the idea of biotech trees where genetically engineered trees are entered and grown in forests. 
 
 ## MathJax
 
