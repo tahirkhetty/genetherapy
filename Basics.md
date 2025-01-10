@@ -46,7 +46,7 @@ When undergoing gene therapy there is required preparation before the procedure.
 Gene therapy is currently still an evolving field of research but is being used because it shows great promise in the future. There have already been several successful clinical trials in curing various diseases in people such as severe combined immune deficiency, hemophilia, blindness caused by retinitis pigmentosa and leukemia. Gene therapy could also allow patients to live without the need of ongoing treatments and the burden of daily disease management. Gene therapy not only has long lasting effects curing the patient for life but it can also have a positive effect through generations. This means that future offspring won’t inherit the faulty gene from a parent which would inevitably result in a world with less genetic diseases. 
 
 ## An Overview
-{% include embed.html url="https://www.youtube.com/watch?v=kAtd9X29SdQ" %}
+{% include embed.html url="https://youtu.be/kAtd9X29SdQ?si=NV8OatgmEpoVHYEM" %}
 
 ## Horizontal Rule
 
