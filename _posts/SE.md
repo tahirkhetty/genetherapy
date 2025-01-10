@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "Scientific Enhancements"
 mathjax: true
 layout: post
 categories: media
