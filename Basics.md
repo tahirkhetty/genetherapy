@@ -31,10 +31,17 @@ Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, tur
 > 
 > – _The Guardian_
 
-
 > "We used to think that our fate was in our stars, but now we know that, in large measure, our fate is in our genes..."
 >
 > quotes James Watson. This fate that Watson is talking about is contained in our genes, and deals with a new technique, gene therapy (North Dakota State University).
+
+>"Genome editing is a powerful, scientific technology that can reshape medical treatments and people's lives, but it can also harmfully reduce human diversity  and increase social inequality"
+>
+> – _Scientific American_
+
+>"Gene therapy is a cornerstone of our vision for the future; it creates almost unlimited possibilities  to deliver new transformative medicines,"
+>
+>states Sylke Poehline, Senior Vice President of Global Head Therapeutic Modalities at Roche.
 
 ## Horizontal Rule
 
