@@ -29,15 +29,12 @@ Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, tur
 ### Multiline
 > A groundbreaking gene therapy has been hailed as a 'medical  magic wand' after the treatment transformed the lives of patients with a hereditary disorder that causes painful and potentially fatal swelling"
 > 
-> - _The Guardian_
+> – _The Guardian_
 
 
-> What do you get when you cross an insomniac, an unwilling agnostic and a dyslexic?
->
-> You get someone who stays up all night torturing himself mentally over the question of whether or not there's a dog.
->
-> – _Hal Incandenza_
+> "We used to think that our fate was in our stars, but now we know that, in large measure, our fate is in our genes..."
 
+> quotes James Watson. This fate that Watson is talking about is contained in our genes, and deals with a new technique, gene therapy (North Dakota State University).
 ## Horizontal Rule
 
 ---
