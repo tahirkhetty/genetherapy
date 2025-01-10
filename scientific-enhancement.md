@@ -1,11 +1,11 @@
 ---
-title:  "Scientific Enhancements"
+title:  "Gene Therapy: Revolutionizing Modern Medicine and Technology"
 mathjax: true
 layout: post
 categories: media
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+![engineering gene therapy](https://www.innovationnewsnetwork.com/wp-content/uploads/2021/03/iStock-1209831767-696x392.jpg)
 
 
 ## MathJax
