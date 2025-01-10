@@ -18,9 +18,7 @@ layout: post
 ###### Heading Six (h6)
 
 
-## Blockquotes
-
-### Multiline
+### Gene Therapy Remarks
 > A groundbreaking gene therapy has been hailed as a 'medical  magic wand' after the treatment transformed the lives of patients with a hereditary disorder that causes painful and potentially fatal swelling"
 > 
 > – _The Guardian_
