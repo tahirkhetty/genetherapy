@@ -33,8 +33,9 @@ Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, tur
 
 
 > "We used to think that our fate was in our stars, but now we know that, in large measure, our fate is in our genes..."
-
+>
 > quotes James Watson. This fate that Watson is talking about is contained in our genes, and deals with a new technique, gene therapy (North Dakota State University).
+
 ## Horizontal Rule
 
 ---
