@@ -39,7 +39,7 @@ Gene therapy helped to understand how genetic diseases can be inherited and how 
 ### Overall Scientific Advancements in Gene Therapy
 
 {% include embed.html url="https://www.youtube.com/embed/GmDmWCmWYpw" %}
-
+[Click here to open in browser.](https://www.youtube.com/watch?v=GmDmWCmWYpw)
 ## MathJax
 
 You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
