@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "The Basics", icon: home}
-  - {file: "advanced-examples.md", title: "Scientific Enhancements", icon: science}
+  - {file: "2017-01-01-SE.md", title: "Scientific Enhancements", icon: science}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:786453@pdsb.net"}
