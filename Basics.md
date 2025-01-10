@@ -4,7 +4,7 @@ layout: post
 ---
 ### The World's Most Expensive Drug - Why?
 
-![gene editing](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stemgenomics.com%2Fnews-for-stemcell-researchers%2Fgene-editing-a-threat-to-genomic-integrity%2F&psig=AOvVaw0VvCYn6pDwM_CsGkDHPJh_&ust=1736572250625000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjW-_Kx6ooDFQAAAAAdAAAAABAK)
+![gene editing](https://www.stemgenomics.com/wp-content/uploads/2023/01/29132911743072_1.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
