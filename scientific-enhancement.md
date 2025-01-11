@@ -7,13 +7,9 @@ categories: media
 
 ![engineering gene therapy](https://www.innovationnewsnetwork.com/wp-content/uploads/2021/03/iStock-1209831767-696x392.jpg)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=900&color=302DB5&height=70&duration=4000&lines=Enhancing+the+Studies+of+Cells+and+Cellular+Processes;" />
 </h1>
-
-### Enhancing the Studies of Cells and Cellular Processes
 
 Gene therapy has enhanced scientists’ understanding of cells and cellular processes because they now have further understanding of cellular mutations.
 
@@ -22,7 +18,9 @@ Cellular mutation is when there is any abnormal change in the DNA sequence of a 
 Gene therapy helped to understand how genetic diseases can be inherited and how to fix it from the egg and sperm cell before it becomes an embryo. It also helped our understanding of stem cells and how they can be altered or injected into someone to fix the targeted problem.
 
 ![enhancing](https://img.chemie.de/Portal/News/6576f56f211f6_QiR0Jsyba.png?tr=n-news_teaser)
-### Environmental!? Can Gene Therapy Change the World!?
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=900&color=302DB5&height=70&duration=4000&lines=Environmental!?;Can+Gene+Therapy+Change+the+World!?;" />
+</h1>
 
 - Gene therapy has no negative nor positive significant effect on the quality of an environment. Though, the potential for gene therapy is endless. As gene therapy is a currently developing treatment on humans, there isn’t much it can do for the environment... For now.
 
@@ -42,8 +40,9 @@ Gene therapy helped to understand how genetic diseases can be inherited and how 
 
 ![biotech trees](https://www.centerforfoodsafety.org/thumbs/1000x562/files/zc/tree_farm_2_000021241182medium_68587.jpg)
 
-### Overall Scientific Advancements in Gene Therapy
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=900&color=302DB5&height=70&duration=4000&lines=Environmental!?;Overall+ Scientific+Advancements+in+Gene+Therapy;" />
+</h1>
 {% include embed.html url="https://www.youtube.com/embed/GmDmWCmWYpw" %}
 
 [Click here to open in browser.](https://www.youtube.com/watch?v=GmDmWCmWYpw)
