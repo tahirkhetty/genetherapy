@@ -2,7 +2,7 @@
 title:  "The Future of Cellular Technologies: Gene Therapy"
 layout: post
 ---
-### The World's Most Expensive Drug - Why?
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=900&color=302DB5&height=40&duration=4000&lines=The+World's+Most+Expensive+Drug+-+Why?;" />
 </h1>
