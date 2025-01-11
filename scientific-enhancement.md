@@ -7,6 +7,12 @@ categories: media
 
 ![engineering gene therapy](https://www.innovationnewsnetwork.com/wp-content/uploads/2021/03/iStock-1209831767-696x392.jpg)
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
+
 ### Enhancing the Studies of Cells and Cellular Processes
 
 Gene therapy has enhanced scientists’ understanding of cells and cellular processes because they now have further understanding of cellular mutations.
