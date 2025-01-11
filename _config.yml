@@ -14,10 +14,12 @@ show_sidebar: true        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
+#  title: "Basics", icon: home
+# , title: "Scientific Enhancements", icon: box
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Basics.md", title: "Basics", icon: home}
-  - {file: "scientific-enhancement.md", title: "Scientific Enhancements", icon: science}
+  - {file: "Basics.md"}
+  - {file: "scientific-enhancement.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:786453@pdsb.net"}
