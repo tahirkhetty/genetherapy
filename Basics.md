@@ -47,3 +47,4 @@ Gene therapy is currently still an evolving field of research but is being used 
 
 ## An Overview
 {% include embed.html url="https://www.youtube.com/embed/GbJasFgJkLg" %}
+[Click here to open in browser.](https://www.youtube.com/watch?v=GbJasFgJkLg)
