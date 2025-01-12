@@ -21,7 +21,7 @@ This images compares a few of the impacts of gene therapy to other treatment pla
 
 - Although gene therapy may seem like a great treatment for many harmful diseases like cancer, diabetes, AIDS and heart disease, there are many negative effects of gene therapy on the human body.
 
--As gene therapy is relatively new, with its first trial dating back about 30 years ago, gene therapy has serious health risks such as toxicity,  inflammation and especially cancer.
+- As gene therapy is relatively new, with its first trial dating back about 30 years ago, gene therapy has serious health risks such as toxicity,  inflammation and especially cancer.
 
 - Though lately, the techniques used in gene therapy have developed, lessening the risk of cancer and damage to the immune system.
 
@@ -35,7 +35,8 @@ This images compares a few of the impacts of gene therapy to other treatment pla
 
 - Of course, many of these treatments do help and gene therapy has had successful trials, but there is never a guarantee.
 
+### Gene Therapy: Limitations, Risks, and Unknowns - FAQs
 
-{% include embed.html url="https://www.youtube.com/embed/GmDmWCmWYpw" %}
+{% include embed.html url="https://www.youtube.com/embed/8oH6vYY1pR0" %}
 
-[Click here to open in browser.](https://www.youtube.com/watch?v=GmDmWCmWYpw)
+[Click here to open in browser.](https://www.youtube.com/watch?v=8oH6vYY1pR0)
