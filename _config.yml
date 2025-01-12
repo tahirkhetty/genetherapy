@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Basics.md", title: "The Basics", icon: home}
   - {file: "scientific-enhancement.md", title: "Scientific Enhancements", icon: box}
   - {file: "ER.md", title: "Effects/Risks", icon: box}
-  - {file: "EM", title: "Ethics/Morals", icon: box}
+  - {file: "EM.md", title: "Ethics/Morals", icon: box}
   - {file: "scientific-enhancement.md", title: "Scientific Enhancements", icon: box}
   - {file: "scientific-enhancement.md", title: "Scientific Enhancements", icon: box}
   - {file: "scientific-enhancement.md", title: "Scientific Enhancements", icon: box}
