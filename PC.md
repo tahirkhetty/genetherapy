@@ -5,6 +5,8 @@ layout: post
 categories: media
 ---
 
+![](https://www.fredhutch.org/en/news/center-news/2017/08/targeted-temporary-gene-therapy-through-nanoparticles/_jcr_content/root/container/textimage/image.coreimg.gif/1670960167258/targeted-temporary-gene-therapy-through-nanoparticles-article-image.gif)
+
 | Pros | Cons |
 | :---: | :---: |
 | <img src="https://cenit-ea.org/wp-content/uploads/2018/11/ok-1976099_640.png" width="100"/> | <img src="https://static.vecteezy.com/system/resources/thumbnails/046/486/805/small/reject-icon-3d-rener-illustratio-png.png" width="80"/> |
