@@ -18,6 +18,12 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Basics.md", title: "The Basics", icon: home}
   - {file: "scientific-enhancement.md", title: "Scientific Enhancements", icon: box}
+  - {file: "scientific-enhancement.md", title: "Scientific Enhancements", icon: box}
+  - {file: "ER.md", title: "Effects/Risks", icon: box}
+  - {file: "scientific-enhancement.md", title: "Scientific Enhancements", icon: box}
+  - {file: "scientific-enhancement.md", title: "Scientific Enhancements", icon: box}
+  - {file: "scientific-enhancement.md", title: "Scientific Enhancements", icon: box}
+  - {file: "scientific-enhancement.md", title: "Scientific Enhancements", icon: box}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:786453@pdsb.net"}
