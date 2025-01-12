@@ -5,9 +5,10 @@ layout: post
 categories: media
 ---
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://static.wixstatic.com/media/8ec598_436236bc148544e7b949e1d2e0025642~mv2.png/v1/crop/x_1,y_0,w_546,h_393/fill/w_655,h_469,al_c,lg_1,q_85,enc_avif,quality_auto/download%20(1)_edited.png) |  kkkk
+## Treatment Comaprisons
+
+![](https://static.wixstatic.com/media/8ec598_436236bc148544e7b949e1d2e0025642~mv2.png/v1/crop/x_1,y_0,w_546,h_393/fill/w_655,h_469,al_c,lg_1,q_85,enc_avif,quality_auto/download%20(1)_edited.png)  
+This images compares a few of the impacts of gene therapy to other treatment plans, such as somatic and early embreyo treatment.
 
 
 
@@ -15,17 +16,24 @@ Solarized dark             |  Solarized Ocean
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=900&color=302DB5&height=40&duration=4000&lines=Enhancing+the+Studies+of+Cells+and+Cellular+Processes;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=900&color=302DB5&height=40&duration=4000&lines=An+Overview;" />
 </h1>
 
-Gene therapy has enhanced scientists’ understanding of cells and cellular processes because they now have further understanding of cellular mutations.
+- Although gene therapy may seem like a great treatment for many harmful diseases like cancer, diabetes, AIDS and heart disease, there are many negative effects of gene therapy on the human body.
 
-Cellular mutation is when there is any abnormal change in the DNA sequence of a cell. For scientists’ to proceed with gene therapy, they would have to know how cellular mutations occur from possibly an error during cell division and how it can affect the way our cells produce protein.
+-As gene therapy is relatively new, with its first trial dating back about 30 years ago, gene therapy has serious health risks such as toxicity,  inflammation and especially cancer.
 
-Gene therapy helped to understand how genetic diseases can be inherited and how to fix it from the egg and sperm cell before it becomes an embryo. It also helped our understanding of stem cells and how they can be altered or injected into someone to fix the targeted problem.
+- Though lately, the techniques used in gene therapy have developed, lessening the risk of cancer and damage to the immune system.
 
-![enhancing](https://img.chemie.de/Portal/News/6576f56f211f6_QiR0Jsyba.png?tr=n-news_teaser)
+- Gene therapy is not fool proof and can lead up to more rounds of going through gene therapy, each potentially causing more negative impacts on the body. 
 
+- The main issue is that the immune system is designed in a way that anytime a foreign thing enters the human body, it attacks it.
+
+- Also, when having more than one trial, the immune system would have already been introduced to the ‘invading gene,’ and know them as a threat, making it harder for the treatment to be successful.
+
+- The risks of gene therapy on the body could be very devastating and may make situations worse than they already are.
+
+- Of course, many of these treatments do help and gene therapy has had successful trials, but there is never a guarantee.
 
 
 {% include embed.html url="https://www.youtube.com/embed/GmDmWCmWYpw" %}
