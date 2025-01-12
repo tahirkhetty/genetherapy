@@ -11,42 +11,25 @@ categories: media
 
 ![engineering gene therapy](https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-020-20096-1/MediaObjects/41467_2020_20096_Fig1_HTML.png)
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=900&color=302DB5&height=40&duration=4000&lines=Enhancing+the+Studies+of+Cells+and+Cellular+Processes;" />
-</h1>
+As gene therapy can be a leading treatment in saving one’s life, it can also be easily abused and seen as morally/ethically wrong. In fact the US Department of Energy and the National Institutes of Health set aside around 5% of the annual Human Genome Projects budget in order to study the ethical, legal, and social issues that arose from gene therapy. Some of these concerns are about:
 
-Gene therapy has enhanced scientists’ understanding of cells and cellular processes because they now have further understanding of cellular mutations.
 
-Cellular mutation is when there is any abnormal change in the DNA sequence of a cell. For scientists’ to proceed with gene therapy, they would have to know how cellular mutations occur from possibly an error during cell division and how it can affect the way our cells produce protein.
+1. Distinguishing whether or not the use of gene therapy is either ‘good’ or ‘bad.’
 
-Gene therapy helped to understand how genetic diseases can be inherited and how to fix it from the egg and sperm cell before it becomes an embryo. It also helped our understanding of stem cells and how they can be altered or injected into someone to fix the targeted problem.
+2. Deciding which traits are normal and which should be considered as a disability or disorder.​
 
-![enhancing](https://img.chemie.de/Portal/News/6576f56f211f6_QiR0Jsyba.png?tr=n-news_teaser)
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=900&color=302DB5&height=40&duration=4000&lines=Environmental!?;Can+Gene+Therapy+Change+the+World!?;" />
-</h1>
+3. The high cost factor - will gene therapy only be available to those who can afford it, and what would happen to those who need it but simply can’t afford it?
 
-- Gene therapy has no negative nor positive significant effect on the quality of an environment. Though, the potential for gene therapy is endless. As gene therapy is a currently developing treatment on humans, there isn’t much it can do for the environment... For now.
+4. Cause society to be less accepting of people of different backgrounds or are ‘different’ from the ‘normal’ people and also end diversity.
 
-- As the health/future of forests and their ecosystems are facing many threats, biotech trees could potentially be the cure to these issues.
+5. The enhancement of human traits that want to be changed ex. Height, intelligence, athleticism.
 
-- A report in 2012 by the US Forest Service declared that about 7% of US forests were in danger to lose at least one fourth of their tree vegetation by the next 15 years.
+6. The alignment of the use of gene therapy and the beliefs in different religions.
 
-- Although this may seem like a small percentage, this may only be the start of a large decline in forest trees and its vegetation.
 
-- This estimate was 40% higher than the previous estimate that was made 6 years before the 2012 report.
 
-- Also, as climate change continues to increase worldwide, the application of gene therapy to not just trees, but also plants and other parts of the environment that need sustainable solutions.
+{% include embed.html url="https://www.youtube.com/embed/XzqbRg-olxE" %}
 
-- Gene therapy has the potential to lessen the impact and maybe even start reducing the rate of climate change.
+[Click here to open in browser.](https://www.youtube.com/watch?v=XzqbRg-olxE)
 
-- Though, in the future, we can expect great things from this technology. An example of this is through the idea of biotech trees where genetically engineered trees are entered and grown in forests. 
-
-![biotech trees](https://www.centerforfoodsafety.org/thumbs/1000x562/files/zc/tree_farm_2_000021241182medium_68587.jpg)
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=900&color=302DB5&height=40&duration=4000&lines=Overall+Scientific+Advancements+in+Gene+Therapy;" />
-</h1>
-{% include embed.html url="https://www.youtube.com/embed/GmDmWCmWYpw" %}
-
-[Click here to open in browser.](https://www.youtube.com/watch?v=GmDmWCmWYpw)
+Gene therapy is a very controversial topic which is very relevant to this day, specifically about designer babies. This is the case where the embryo within a womb is genetically modified through the changing of genes. The main issue in this is that this would lead to the birth of a child with special traits and features, differing these people from others who didn't go through this treatment. This could cause a whole class of biologically ‘better’ people which could cause a division between normal people and the designer people, eventually causing people to be discriminated against or seen as less of a person than others. Also, the babies who are genetically modified cannot provide their consent to the treatment.
