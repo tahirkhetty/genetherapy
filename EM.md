@@ -1,11 +1,15 @@
 ---
-title:  "Gene Therapy: Revolutionizing Modern Medicine and Technology"
+title:  "Moral/Ethics of Gene Therapy"
 mathjax: true
 layout: post
 categories: media
 ---
 
-![engineering gene therapy](https://www.innovationnewsnetwork.com/wp-content/uploads/2021/03/iStock-1209831767-696x392.jpg)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=900&color=302DB5&height=15&duration=4000&lines=Where+is+the+line+drawn+for+this+technology?;" />
+</h1>
+
+![engineering gene therapy](https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-020-20096-1/MediaObjects/41467_2020_20096_Fig1_HTML.png)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=900&color=302DB5&height=40&duration=4000&lines=Enhancing+the+Studies+of+Cells+and+Cellular+Processes;" />
