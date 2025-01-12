@@ -41,7 +41,7 @@ Gene therapy helped to understand how genetic diseases can be inherited and how 
 ![biotech trees](https://www.centerforfoodsafety.org/thumbs/1000x562/files/zc/tree_farm_2_000021241182medium_68587.jpg)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=900&color=302DB5&height=40&duration=4000&lines=Environmental!?;Overall+ Scientific+Advancements+in+Gene+Therapy;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=900&color=302DB5&height=40&duration=4000&lines=Overall+Scientific+Advancements+in+Gene+Therapy;" />
 </h1>
 {% include embed.html url="https://www.youtube.com/embed/GmDmWCmWYpw" %}
 
