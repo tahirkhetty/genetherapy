@@ -7,7 +7,7 @@ categories: media
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-Gene therapy has enhanced scientists’ understanding  |  kkkk
+()[https://static.wixstatic.com/media/8ec598_436236bc148544e7b949e1d2e0025642~mv2.png/v1/crop/x_1,y_0,w_546,h_393/fill/w_655,h_469,al_c,lg_1,q_85,enc_avif,quality_auto/download%20(1)_edited.png] |  kkkk
 
 
 
