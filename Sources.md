@@ -11,15 +11,15 @@ Delborne, Jason A. “Can genetic engineering save disappearing forests?” The 
 
 “Designer Babies, PGD, Genetically Modified Babies, GM Baby.” New Hope Fertility Center, 20 May 2022, https://www.newhopefertility.com/designer-babies/. Accessed 7 March 2024.
 
-“Dr. Janet Rossant | NUVO.” NUVO Magazine, 23 May 2018, https://nuvomagazine.com/magazine/summer-2018/dr-janet-rossant. Accessed 7 March 2024.
+“Dr. Janet Rossant  NUVO.” NUVO Magazine, 23 May 2018, https://nuvomagazine.com/magazine/summer-2018/dr-janet-rossant. Accessed 7 March 2024.
 
 Eisenman, Daniel. “FDA Guidance on Shedding and Environmental Impact in Clinical Trials Involving Gene Therapy Products.” NCBI, 14 September 2022, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9908273/. Accessed 7 March 2024.
 
-“Ethical Issues: Germline Gene Editing | ASGCT - American Society of Gene & Cell Therapy |.” Gene & Cell Therapy Education, 16 December 2020, https://patienteducation.asgct.org/gene-therapy-101/patient-journey/ethical-issues-germline-gene-editing. Accessed 7 March 2024.
+“Ethical Issues: Germline Gene Editing  ASGCT - American Society of Gene & Cell Therapy.” Gene & Cell Therapy Education, 16 December 2020, https://patienteducation.asgct.org/gene-therapy-101/patient-journey/ethical-issues-germline-gene-editing. Accessed 7 March 2024.
 
-“Fellow Detail Page.” Fellow Detail Page | Royal Society, https://royalsociety.org/people/janet-rossant-12199/. Accessed 7 March 2024.
+“Fellow Detail Page.” Fellow Detail Page. Royal Society, https://royalsociety.org/people/janet-rossant-12199/. Accessed 7 March 2024.
 
-Gallagher, Larbi. “Gene therapy for patients | Preventive Healthcare.” MiRXES, 16 July 2022, https://mirxes.com/blog/gene-therapy-for-patients/. Accessed 7 March 2024.
+Gallagher, Larbi. “Gene therapy for patients. Preventive Healthcare.” MiRXES, 16 July 2022, https://mirxes.com/blog/gene-therapy-for-patients/. Accessed 7 March 2024.
 
 “Gene Therapy.” Find a Top Doc, 9 November 2017, https://www.findatopdoc.com/Medical-Library/Medical-Procedures/Gene-Therapy. Accessed 7 March 2024.
 
