@@ -35,4 +35,4 @@ comments:
 plugins:
  - jekyll-feed
 
-favicon: /assets/favicon.png
+favicon: /favicon.png
